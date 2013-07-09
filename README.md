@@ -1,3 +1,0 @@
-LearningHowToUseGit
-===================
-This is stuff.
